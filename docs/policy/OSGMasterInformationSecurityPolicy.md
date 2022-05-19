@@ -15,7 +15,7 @@ This document represents the core information security policies and procedures f
 
 ### 2.1 Management/Leadership
 
-The OSG Executive Director accepts risk on behalf of the organization, with advice from the Information Security Officer. The Executive Director will work directly with the ISO to ensure that s/he stays abreast of major security issues facing OSG, as well as the organization’s security posture. Any new or changed security policies must be accepted by the Executive Director before they are put into effect. The OSG Executive Director at the time of this policy’s execution is Frank Wuerthwein. The current Executive Director and Executive Team can always be found at [https://opensciencegrid.org/management/#executive-team​](https://opensciencegrid.org/management/#executive-team​).
+The OSG Executive Director accepts risk on behalf of the organization, with advice from the Information Security Officer. The Executive Director will work directly with the ISO to ensure that s/he stays abreast of major security issues facing OSG, as well as the organization’s security posture. Any new or changed security policies must be accepted by the Executive Director before they are put into effect. The OSG Executive Director at the time of this policy’s execution is Frank Wuerthwein. The current Executive Director and Executive Team can always be found at [https://osg-htc.org/management/#executive-team​](https://osg-htc.org/management/#executive-team​).
 
 ### 2.2 Information Security Officer (ISO)
 
@@ -89,13 +89,13 @@ The Information Security Officer (ISO) is responsible for coordinating changes t
 
 *Resources*
 
-* [Open Science Grid Security Documentation](https://opensciencegrid.org/security/)
-* [OSG Security Announcements](https://opensciencegrid.org/security/OSGSecurityAnnouncements/)
+* [Open Science Grid Security Documentation](https://osg-htc.org/security/)
+* [OSG Security Announcements](https://osg-htc.org/security/OSGSecurityAnnouncements/)
 * [OSG Service Catalog](https://docs.google.com/spreadsheets/d/1cIu0YcNAT8Kiy5u2xBz8ZzG2zImVK3pRX9iFHegIjUk/edit#gid=0)
 
 *Key Contacts*
 
-* [The OSG areas and their coordinators](https://opensciencegrid.org/management/#executive-team)
+* [The OSG areas and their coordinators](https://osg-htc.org/management/#executive-team)
 * OSG Security Team: [security@opensciencegrid.org](mailto:security@opensciencegrid.org)
 
 # 5 Other Policy and Procedure Documents
@@ -103,7 +103,7 @@ The Information Security Officer (ISO) is responsible for coordinating changes t
 In addition to this Master document, OSG has adopted the following additional policies and procedures.
 
 * [Incident Response Policies and Procedures​](https://docs.google.com/document/d/1DUY2E-0HaUQti3e4TSQR8c_fM9YdnxXr-O3s-NFuP74/edit?pli=1)- A pre-defined organized approach to addressing and managing a security incident.
-* [Policy and Procedure to approve OSG Connect accounts](https://opensciencegrid.org/campus-research/accounts-and-projects/accounts/) ​- users requesting OSG Connect account needs to satisfy the requirements mentioned in this document in order to be approved.
+* [Policy and Procedure to approve OSG Connect accounts](https://osg-htc.org/campus-research/accounts-and-projects/accounts/) ​- users requesting OSG Connect account needs to satisfy the requirements mentioned in this document in order to be approved.
 * [OSG Service Container Security Policy](https://docs.google.com/document/d/11d3poYjhA1uyfwG0z1bMoo3rMPuZogtmSVColQflBU4/edit)
 * [Procedure for Vulnerability Management](https://docs.google.com/document/d/1DUY2E-0HaUQti3e4TSQR8c_fM9YdnxXr-O3s-NFuP74/edit?pli=1#heading=h.rz8ne59vxfmx)
 * [Open Science Grid Privacy Policy](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=741)

@@ -10,7 +10,7 @@ The OSG CA Distribution contains:
 
 For additional details, see the [distribution site](http://repo.opensciencegrid.org/pacman/cadist/) and [change log](http://repo.opensciencegrid.org/pacman/cadist/CHANGES).
 
-[CA Certificate Installation and Update](https://opensciencegrid.org/docs/common/ca/) provides you with details of various options to install the Certificate Authority (CA) certificates and have up-to-date certificate revocation list (CRL) using OSG RPMs.
+[CA Certificate Installation and Update](https://osg-htc.org/docs/common/ca/) provides you with details of various options to install the Certificate Authority (CA) certificates and have up-to-date certificate revocation list (CRL) using OSG RPMs.
 
 In the OSG repositories, there are two different sets of predefined CA certificates: osg-ca-certs and igtf-ca-certs. In the past, these two packages had different content and some unaccredited CA were distributed. As of February 19, 2018, the content of both packages is identical.
 

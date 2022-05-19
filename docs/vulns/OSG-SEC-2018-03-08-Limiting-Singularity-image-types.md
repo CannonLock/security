@@ -26,7 +26,7 @@ Sites should also consider limiting their vulnerability further by installing on
 
 ## REFERENCES:
 - [1] https://lwn.net/Articles/652468/
-- [2] http://opensciencegrid.github.io/docs/worker-node/install-singularity/#limiting-image-types
+- [2] http://osg-htc.org/docs/worker-node/install-singularity/#limiting-image-types
 
 Please contact the OSG security team at security@opensciencegrid.org if you have any questions or concerns. 
 

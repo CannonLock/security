@@ -21,12 +21,12 @@ The OSG Security Team wants to inform you that as part of the OSG Service Migrat
     - Let’s Encrypt CA (https://letsencrypt.org/how-it-works/) also provides short-lived host certificates in a secure manner with a minimum of overhead and automated renewal [4]. Let's Encrypt CA has been added to the OSG CA certificates bundle [5].  
 
 ## REFERENCES:
-- [1] https://opensciencegrid.org/technology/policy/service-migrations-spring-2018/
-https://opensciencegrid.org/docs/security/user-certs/#getting-a-certificate-from-cilogon
+- [1] https://osg-htc.org/technology/policy/service-migrations-spring-2018/
+https://osg-htc.org/docs/security/user-certs/#getting-a-certificate-from-cilogon
 - [2] https://ca.cern.ch/ca/Help/?kbid=021001
-- [3] https://opensciencegrid.org/docs/security/host-certs/
-- [4] https://opensciencegrid.org/docs/security/host-certs/
-- [5] https://opensciencegrid.org/security/LetsEncryptOSGCAbundle/
+- [3] https://osg-htc.org/docs/security/host-certs/
+- [4] https://osg-htc.org/docs/security/host-certs/
+- [5] https://osg-htc.org/security/LetsEncryptOSGCAbundle/
 
 ## RELATED LINKS
  - https://ticket.grid.iu.edu/37926

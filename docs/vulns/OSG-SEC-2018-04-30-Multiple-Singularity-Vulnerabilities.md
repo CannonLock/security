@@ -27,11 +27,11 @@ Version 2.5.0-1.1.osg34 includes a pending pull request [3], and there is one mo
 Report any problems seen to security@opensciencegrid.org.  If no problems are seen with your use cases you may upgrade before the release to the osg yum repository.
 
 ## RELATED LINKS
-- http://opensciencegrid.github.io/docs/worker-node/install-singularity/ - OSG singularity install documentation.
+- http://osg-htc.org/docs/worker-node/install-singularity/ - OSG singularity install documentation.
 - https://ticket.grid.iu.edu/37322
 
 ## REFERENCES
-- [1] http://opensciencegrid.github.io/docs/worker-node/install-singularity/#unprivileged-singularity
+- [1] http://osg-htc.org/docs/worker-node/install-singularity/#unprivileged-singularity
 - [2] https://github.com/singularityware/singularity/releases/tag/2.5.0
 - [3] https://github.com/singularityware/singularity/pull/1491
 - [4] https://github.com/singularityware/singularity/pull/1490

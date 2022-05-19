@@ -13,7 +13,7 @@ Let’s Encrypt, however, does not confirm the organization that is running the 
 This is the upcoming change likely to be most relevant to security contacts during the migration. For more details on the migration plan please consult the Service Migration Plan document. [1] 
 
 More Information:
-- [1] https://opensciencegrid.github.io/technology/policy/service-migrations-spring-2018/ 
+- [1] https://osg-htc.org/technology/policy/service-migrations-spring-2018/ 
 - [2] https://docs.google.com/document/d/17In575G9PawPzPGnPTSbqpDz2_9KVV3AlMgWNnHVKTQ/edit#
 - [3] https://letsencrypt.org/how-it-works/ 
 

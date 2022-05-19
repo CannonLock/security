@@ -22,8 +22,8 @@ Note that if there were local changes to singularity.conf, VOs will no longer be
 
 ## REFERENCES
 
-[1]­­­⁣⁣⁣ https://opensciencegrid.org/docs/worker-node/install-singularity/#enabling-unprivileged-singularity
-[2]­­­⁣⁣⁣ https://opensciencegrid.org/docs/worker-node/install-singularity/#choosing-unprivileged-vs-privileged-singularity
+[1]­­­⁣⁣⁣ https://osg-htc.org/docs/worker-node/install-singularity/#enabling-unprivileged-singularity
+[2]­­­⁣⁣⁣ https://osg-htc.org/docs/worker-node/install-singularity/#choosing-unprivileged-vs-privileged-singularity
 
 Please contact the OSG security team at security@opensciencegrid.org if you have any questions or concerns.
 

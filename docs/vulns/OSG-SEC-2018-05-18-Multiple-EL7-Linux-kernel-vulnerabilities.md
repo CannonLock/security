@@ -22,7 +22,7 @@ Upgrade the kernel to version 3.10.0-862.2.3. This is available now in the Scien
 - [1] https://access.redhat.com/security/cve/cve-2017-16939
 - [2] https://access.redhat.com/security/cve/cve-2018-1087
 - [3] https://access.redhat.com/security/cve/cve-2018-8897
-- [4] https://opensciencegrid.org/docs/worker-node/install-singularity/#enabling-singularity-via-oasis
+- [4] https://osg-htc.org/docs/worker-node/install-singularity/#enabling-singularity-via-oasis
 
 Please contact the OSG security team at security@opensciencegrid.org if you have any questions or concerns. 
 

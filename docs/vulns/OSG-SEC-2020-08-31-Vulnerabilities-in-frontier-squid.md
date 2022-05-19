@@ -34,7 +34,7 @@ This has been tested with CVMFS and Frontier but may impact other applications u
 
 [2] https://github.com/squid-cache/squid/security/advisories/GHSA-3365-q9qx-f98m
 
-[3] https://opensciencegrid.org/docs/data/frontier-squid
+[3] https://osg-htc.org/docs/data/frontier-squid
 
 Please contact the OSG security team at security@opensciencegrid.org if you have any questions or concerns. 
 
